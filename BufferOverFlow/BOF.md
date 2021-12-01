@@ -55,6 +55,7 @@ Heap Buffer Overflow 또한 정확한 개념을 알기 전 Heap에 대해서 먼
 Heap Buffer Overflow란 힙에 할당된 버퍼들에 문자열 등이 저장되어질 때 사용자가 미리 정의한 크기의 힙 메모리 사이즈를 초과하여 문자열 등이 저장되어 질 경우에 발생한다.
 
 <hr>
+
 ## 3. Buffer Overflow 실습
 
 
