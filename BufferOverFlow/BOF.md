@@ -5,6 +5,13 @@
 
 <hr>
 
+## 참고 내용 및 공부 URL
+[2premise 버퍼오버 플로우란?, 버퍼오버 플로우 예방책](https://je0n-je.tistory.com/12) <br>
+[IT_Try 메모리 구조](https://cwjuns.tistory.com/17) <br>
+[D4m0n Buffer Overflow 기초](https://d4m0n.tistory.com/14)
+
+<hr>
+
 ## 목차
 * 1. What is Buffer Overflow ?
 * 2. Buffer Overflow 종류
