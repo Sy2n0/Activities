@@ -58,5 +58,8 @@ Heap Buffer Overflow란 힙에 할당된 버퍼들에 문자열 등이 저장되
 
 ## 3. Buffer Overflow 실습
 
+먼저 BOF 실습을 위해서 총 2가지에 코드를 준비해보았다.
+* 1. Stack Buffer Overflow
+* 2. Heap Buffer Overflow
 
 
