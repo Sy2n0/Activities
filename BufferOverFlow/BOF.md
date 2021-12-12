@@ -67,7 +67,7 @@ Heap Buffer Overflow란 힙에 할당된 버퍼들에 문자열 등이 저장되
 #include<stdio.h>
 
 #include<string.h>
-
+ 
 int main(int argc, char *argv[])
 
 {
@@ -85,3 +85,4 @@ return 0;
 
 <img width="1122" alt="Screen Shot 2021-12-12 at 9 42 57 PM" src="https://user-images.githubusercontent.com/84657474/145712725-e0554677-8b5e-40f2-bce9-b00260d76b6f.png">
 
+컴파일
