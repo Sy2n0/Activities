@@ -56,7 +56,6 @@ Heap Buffer Overflow란 힙에 할당된 버퍼들에 문자열 등이 저장되
 <hr>
 
 ## 3. Buffer Overflow 예방책
-1) 프로그
-## 1. What is Buffer Overflow ?ㄹ
-## 1. What is Buffer Overflow ?매
-## 1. What is Buffer Overflow ?
+1) 프로그램 개발 시 : ```scanf```보다 ```scanf_s```를 사용할 것을 권장한다.
+2) 스택 쉴드 : 함수 시작 시에 Return address를 Global RET라는 특수한 스택에 저장해 두었다가 함수가 끝날 시 저장된 Global RET와 스택의 RET 값을 비교하고 다를 경우 프로그램을 종료한다.
+3) ASLR(Address Space Layout Randomization) : 메모리 공격을 방어하기 위해 주소 공간 배치를 무작위로 섞는 기법이다.
