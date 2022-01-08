@@ -34,7 +34,7 @@ CPU에 사용되는 ISA 종류
 
 - 2-2 명령어
 	- 인텔의 x64에는 명령어가 굉장히 많다.
-		<img width="700" alt="Screen Shot 2022-01-08 at 8 47 08 PM" src="https://user-images.githubusercontent.com/84657474/148642938-22efde76-6b1c-4982-9b52-f64a6bc7079d.png">
+	<img width="700" alt="Screen Shot 2022-01-08 at 8 47 08 PM" src="https://user-images.githubusercontent.com/84657474/148642938-22efde76-6b1c-4982-9b52-f64a6bc7079d.png">
 		
 - 2-3 피연산자
 	- 피연산자에는 3가지에 종류가 올 수 있다.
