@@ -78,6 +78,7 @@ CPU에 사용되는 ISA 종류
 
 - 4-6 분기
 	- rip를 이동시켜 실행 흐름을 바꾼다.
+	
 		<img width="699" alt="Screen Shot 2022-01-08 at 9 27 35 PM" src="https://user-images.githubusercontent.com/84657474/148644107-d4d5850f-565e-4ece-8646-07a813e1205e.png">
 		<img width="697" alt="Screen Shot 2022-01-08 at 9 27 44 PM" src="https://user-images.githubusercontent.com/84657474/148644111-8804d8f3-bcc2-4484-90d3-75980c16723c.png">
 		<img width="699" alt="Screen Shot 2022-01-08 at 9 27 54 PM" src="https://user-images.githubusercontent.com/84657474/148644120-8162b820-3bf9-4514-94d8-504597c400c2.png">
