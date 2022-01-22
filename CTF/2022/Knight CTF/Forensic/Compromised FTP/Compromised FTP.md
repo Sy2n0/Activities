@@ -6,5 +6,7 @@ So, it was basically a log file. Since, an OK status is sent on successful login
 Hence, the username is **ftpuser** and the IP of the attacker is **192.168.1.7**.
 
 <hr>
+
 # Flag
+
 ```KCTF{ftpuser_192.168.1.7}```
