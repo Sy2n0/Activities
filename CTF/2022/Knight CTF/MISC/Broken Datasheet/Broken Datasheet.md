@@ -13,5 +13,4 @@ All Microsoft files like Word and Excel are essentially zip files holding a bunc
 ## Flag
 ```
 KCTF{XLSX_Fil3$_4R3_Actually_0n3_Kind_0f_Zip_Fil3}
-
-
+``` 
