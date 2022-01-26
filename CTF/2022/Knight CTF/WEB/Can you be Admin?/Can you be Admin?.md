@@ -42,3 +42,11 @@ base85로 디코딩을 하면 username과 password를 알 수 있다.
 Cookie값이 추가된것을 확인할 수 있었으며, base64로 디코딩해보면 뭔지 알 수 있었다.     
 ```Tm9ybWFsX1VzZXI%3D``` -> ```Normal_User7.```
 ![Screen Shot 2022-01-26 at 9 50 08 PM](https://user-images.githubusercontent.com/84657474/151165914-c2b46735-62d2-41b3-9f54-fa620cfb9387.png)
+
+이제 진짜 마지막이다.
+해당 Normal_user7. 을 admin으로 바꾸고 암호화를 해서 넣어주면 된다.
+![Screen Shot 2022-01-26 at 9 59 41 PM](https://user-images.githubusercontent.com/84657474/151167211-86ada8df-d349-4bee-a3bc-661bf12034c6.png)
+
+
+## Flag
+```KCTF{FiN4LIY_y0u_ar3_4dm1N}```  
